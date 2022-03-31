@@ -28,5 +28,6 @@
 - LCD display/operate with ESP8266
 - Verified working of current sensor, ADS1115 and voltage sensor in TGGS lab as DC and AC power supplies were required from the lab  
 - Load prediction and energy consumption algorithm (in progress)
-![image](http://home/sana/Desktop/1.jpeg)
-![image](/home/sana/Desktop/2.jpeg)
+
+![1](https://user-images.githubusercontent.com/41298576/161098615-6d3255c9-f6e6-426b-aa62-10c5ddfcd59c.jpeg)
+![2](https://user-images.githubusercontent.com/41298576/161098638-45c66744-c548-468f-a5fb-298194845449.jpeg)
