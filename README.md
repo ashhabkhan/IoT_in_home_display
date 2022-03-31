@@ -1,4 +1,5 @@
 # Design and implementation of the IoT in-home display
+- Note: The workshops uploaded in the main branch are done by all three group members (Muhammad Ashhab Khan, Sana Khurram, Muhammad Hamza Zafar)
 ## Features 
 - 15-minute kWh load profile on an LCD display
 - A user-friendly GUI on mobile application for kWh consumption logging 
