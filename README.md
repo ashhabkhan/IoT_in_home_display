@@ -64,7 +64,7 @@
 ### Task
 - So as a new task we connected current and voltage sensors to 2 channels of multiplexer which is further connexted to the omly analog pin of NodeMCU
 ## Week 7
- - The energy consumption algorithm and the load prediction algorithms are implemented on the microcontroller.\
+ - The energy consumption algorithm and the load prediction algorithms are implemented on the microcontroller.
 ## Week 8
  - GUI is made on the NETPIE platform and the parameters from the code are then send to the NETPIE
 ![1](https://user-images.githubusercontent.com/41298576/161098615-6d3255c9-f6e6-426b-aa62-10c5ddfcd59c.jpeg)
