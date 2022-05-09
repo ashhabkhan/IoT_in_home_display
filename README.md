@@ -57,16 +57,17 @@
 - LCD display/operate with ESP8266
 - Verified working of current sensor, ADS1115 and voltage sensor in TGGS lab as DC and AC power supplies were required from the lab  
 - Load prediction and energy consumption algorithm (in progress)
+![1](https://user-images.githubusercontent.com/41298576/161098615-6d3255c9-f6e6-426b-aa62-10c5ddfcd59c.jpeg)
+![2](https://user-images.githubusercontent.com/41298576/161098638-45c66744-c548-468f-a5fb-298194845449.jpeg)
+
 
 ## Week 6
 ### Problems
 - Due to the issue of using different caliberation parameters for external ADC, we shifted to read voltage and current via MUX
+![WhatsApp Image 2022-05-09 at 12 11 11 PM](https://user-images.githubusercontent.com/41298576/167347804-233f18e3-f80d-4481-8ab5-dc953670b518.jpeg)
 ### Task
 - So as a new task we connected current and voltage sensors to 2 channels of multiplexer which is further connexted to the omly analog pin of NodeMCU
 ## Week 7
  - The energy consumption algorithm and the load prediction algorithms are implemented on the microcontroller.
 ## Week 8
  - GUI is made on the NETPIE platform and the parameters from the code are then send to the NETPIE
-![1](https://user-images.githubusercontent.com/41298576/161098615-6d3255c9-f6e6-426b-aa62-10c5ddfcd59c.jpeg)
-![2](https://user-images.githubusercontent.com/41298576/161098638-45c66744-c548-468f-a5fb-298194845449.jpeg)
-
