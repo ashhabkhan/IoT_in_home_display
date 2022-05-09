@@ -64,10 +64,14 @@
 ## Week 6
 ### Problems
 - Due to the issue of using different caliberation parameters for external ADC, we shifted to read voltage and current via MUX
-![WhatsApp Image 2022-05-09 at 12 11 11 PM](https://user-images.githubusercontent.com/41298576/167347804-233f18e3-f80d-4481-8ab5-dc953670b518.jpeg)
+![WhatsApp Image 2022-05-09 at 12 11 11 PM](https://user-images.githubusercontent.com/41298576/167347918-a4fbcd10-8601-450c-9741-707a1aeb155c.jpeg)
+
 ### Task
 - So as a new task we connected current and voltage sensors to 2 channels of multiplexer which is further connexted to the omly analog pin of NodeMCU
 ## Week 7
  - The energy consumption algorithm and the load prediction algorithms are implemented on the microcontroller.
 ## Week 8
  - GUI is made on the NETPIE platform and the parameters from the code are then send to the NETPIE
+![WhatsApp Image 2022-05-09 at 12 04 46 PM](https://user-images.githubusercontent.com/41298576/167347937-1c132c35-1571-4e1f-87b0-169343209add.jpeg)
+![WhatsApp Image 2022-05-09 at 12 04 58 PM](https://user-images.githubusercontent.com/41298576/167347969-21372ee3-faac-48d1-acbd-f01be0eab478.jpeg)
+
